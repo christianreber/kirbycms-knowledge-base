@@ -1,7 +1,0 @@
-Title: Home
-----
-Text:
-
-# Our Home Page
-
-This is how it works.

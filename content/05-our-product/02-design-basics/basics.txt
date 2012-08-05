@@ -1,7 +1,0 @@
-Title: Design Basics
-----
-Text:
-
-#The experience
-
-This is what we want our users to feel when using our products.

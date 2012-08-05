@@ -1,7 +1,0 @@
-Title: Internationalization
-
-----
-
-Text:
-
-This is how we internationalize

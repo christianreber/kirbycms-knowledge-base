@@ -6,26 +6,40 @@ Text:
 
 # Yes, it works! This is your knowledge base made with Kirby!
 
-Kirby is a simple file-based cms, made by (link: https://twitter.com/bastianallgeier text: Bastian Allgeier). At (link: http://www.6wunderkinder.com text: 6Wunderkinder) we use it as a central knowledge base for any type of documentation of our company and products. We've decided to make this open-source.
+Kirby is a simple file-based cms, made by (link: https://twitter.com/bastianallgeier text: Bastian Allgeier). At (link: http://www.6wunderkinder.com text: 6Wunderkinder) we use it as a central knowledge base for any type of documentation of our company and products -and we've decided to make it open-source.
 
-It's free!
+## Features
 
-# How to install?
+* Markdown Formatting
+* Syntax Highlighting
+* Search
 
-Installing this knowledge base is super simple!
+## How to install?
+
+Installing this is super simple!
 
 1. Download and install Kirby ((link: https://github.com/bastianallgeier/kirbycms/zipball/master text: Direct Download))
-
 2. Download and install the Kirby Knowledge Base ((link: https://github.com/christianreber/kirbycms-knowledge-base/zipball/master text: Direct Download))
+3. Create your own structure in the *content* folder! We've kept our's for the sake of demonstration, just delete what you don't need.
 
-3. Done !
+## What we've used to create the knowledge base
 
-# What we've used to create this
+* We've rewritten the (link: https://github.com/bastianallgeier/kirbycms-extensions/tree/master/snippets/treemenu text: Treemenu Snippet) to create a simple and clean menu
+* We've used the (link: https://github.com/bastianallgeier/kirbycms-extensions/tree/master/snippets/breadcrumb text: Breadcrumb Snippet) from Kirby
+* We've used the (link: https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/search text: Search Plugin) from Kirby
+* We've used the (link: https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/highlight text: Syntax Highlighting plugin) from Kirby
+* We created this simple theme (and got inspired from (link: https://developers.facebook.com/docs text: Facebook's documentation))
 
-TBD
-
-# Follow us!
+## Follow us
 
 (link: http://twitter.com/christianreber text: @christianreber)
 (link: http://twitter.com/rafifyalda text: @rafifyalda)
 (link: http://twitter.com/6Wunderkinder text: @6Wunderkinder)
+
+## More about Kirby
+
+If you want to read more about how to format text with Kirby, please read the following links.
+
+* (link: http://getkirby.com/blog/text-formatting-101 text: Kirby Text Formatting 101)
+* (link: http://getkirby.com/content/02-docs/kirby-cheatsheet.pdf text: Kirby Cheat Sheet)
+* (link: http://getkirby.com/docs/getting-started text: Full Kurby Documentation)

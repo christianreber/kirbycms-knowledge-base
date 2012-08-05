@@ -1,5 +1,0 @@
-Title: Colors
-----
-Text:
-
-Here are the colors we use.
