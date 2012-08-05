@@ -1,4 +1,4 @@
-﻿Title: Knowledge Base
+﻿Title: Knowledge-Base
 
 ----
 
@@ -6,11 +6,11 @@ Author: Your company
 
 ----
 
-Description: Knowledge Base
+Description: Knowledge-Base
 
 ----
 
-Keywords: knowledge base, something
+Keywords: knowledge-base, something
 
 ----
 
