@@ -1,0 +1,20 @@
+Title: Technologies
+----
+Text:
+
+## Web technologies
+
+* **Ruby 1.9.3**.
+* **Rails 3.2.x**
+
+## Authentication & ACL
+
+* **OAuth2**
+
+## Asynchronous processing
+
+* **Sidekiq**
+
+## Data storage
+
+* **PostgreSQL**

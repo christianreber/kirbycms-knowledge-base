@@ -1,0 +1,9 @@
+Title: Development Channel
+
+----
+Text: Please join our HockeyApp distribution channel by signing up below.
+
+* (link: https://rink.hockeyapp.net/recruit/sample-url text: iOS popup: yes)
+* (link: https://rink.hockeyapp.net/recruit/sample-url text: Android popup: yes)
+
+After you have registered, you can configure your (link: https://rink.hockeyapp.net/manage/notifications text: email notification settings. popup: yes)

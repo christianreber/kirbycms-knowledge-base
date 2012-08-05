@@ -1,0 +1,6 @@
+.DS_Store
+/index.php
+/kirby
+/site/cache
+/site/config
+.htaccess

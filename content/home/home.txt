@@ -1,0 +1,31 @@
+Title: Knowledge Base
+
+----
+
+Text: 
+
+# Yes, it works! This is your knowledge base made with Kirby!
+
+Kirby is a simple file-based cms, made by (link: https://twitter.com/bastianallgeier text: Bastian Allgeier). At (link: http://www.6wunderkinder.com text: 6Wunderkinder) we use it as a central knowledge base for any type of documentation of our company and products. We've decided to make this open-source.
+
+It's free!
+
+# How to install?
+
+Installing this knowledge base is super simple!
+
+1. Download and install Kirby ((link: https://github.com/bastianallgeier/kirbycms/zipball/master text: Direct Download))
+
+2. Download and install the Kirby Knowledge Base ((link: https://github.com/christianreber/kirbycms-knowledge-base/zipball/master text: Direct Download))
+
+3. Done !
+
+# What we've used to create this
+
+TBD
+
+# Follow us!
+
+(link: http://twitter.com/christianreber text: @christianreber)
+(link: http://twitter.com/rafifyalda text: @rafifyalda)
+(link: http://twitter.com/6Wunderkinder text: @6Wunderkinder)

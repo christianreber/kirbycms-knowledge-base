@@ -1,0 +1,35 @@
+Title: How to install?
+----
+Text: 
+
+# Get Ruby on Rails up and running
+
+Install latest version of Xcode from the Mac App Store (4.4+)
+
+Install (link: http://mxcl.github.com/homebrew/ text: Homebrew)
+
+```
+/usr/bin/ruby -e "$(/usr/bin/curl -fsSL https://raw.github.com/mxcl/homebrew/master/Library/Contributions/install_homebrew.rb)"
+```
+
+Test your configuration with Homebrew (you can safely ignore the warnings about X11 missing)
+
+```
+brew doctor
+```
+
+Install Redis using Homebrew
+
+```
+brew install redis
+```
+
+Enter these 3 lines to automatically start Redis
+
+```
+mkdir -p ~/Library/LaunchAgents
+cp /usr/local/Cellar/redis/2.2.12/io.redis.redis-server.plist ~/Library/LaunchAgents/
+launchctl load -w ~/Library/LaunchAgents/io.redis.redis-server.plist
+```
+
+.... to continue
