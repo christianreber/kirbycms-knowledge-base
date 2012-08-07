@@ -1,11 +1,11 @@
-<? if(!isset($subpages)) $subpages = $site->pages() ?>
-<? $page_url = ''; ?>
+<?php if(!isset($subpages)) $subpages = $site->pages() ?>
+<?php $page_url = ''; ?>
 
 <ul>
 	
-	<? foreach($subpages->visible() AS $p): ?>
+	<?php foreach($subpages->visible() AS $p): ?>
 
-	<li class="depth-<?= $p->depth() ?><? if ($p->depth() >1 && $p->hasChildren()) echo ' hasChildren'; ?>">
+	<li class="depth-<?= $p->depth() ?><?php if ($p->depth() >1 && $p->hasChildren()) echo ' hasChildren'; ?>">
 		
 	<a<?= ($p->isActive()) ? ' class="active"' : '' ?> href="<?= $p->url() ?>"><?= $p->title() ?></a>
 			
@@ -41,6 +41,6 @@
 
 	</li>
 
-	<? endforeach ?>
+	<?php endforeach ?>
 
 </ul>
