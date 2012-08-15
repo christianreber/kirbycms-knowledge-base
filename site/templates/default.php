@@ -1,10 +1,10 @@
-<? snippet('header') ?>
+<?php snippet('header') ?>
 
 <div class="content">
 
-	<? snippet('breadcrumb') ?>
+	<?php snippet('breadcrumb') ?>
 	<?= kirbytext($page->text()) ?>
 </div>
 <div style="clear:both"></div>
 
-<? snippet('footer') ?>
+<?php snippet('footer') ?>

@@ -18,5 +18,5 @@
 		<div class="menu">
 			<a id="logo" href="/"></a>
 			<form id="search" action="/search"><input type="search" name="q" placeholder="Search..."></form>
-			<? snippet('treemenu') ?>			
+			<?php snippet('treemenu') ?>			
 		</div>
