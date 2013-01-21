@@ -9,7 +9,7 @@
 		
 	<a<?= ($p->isActive()) ? ' class="active"' : '' ?> href="<?= $p->url() ?>"><?= $p->title() ?></a>
 			
-			<?
+			<?php
 				$request_URI = $_SERVER['REQUEST_URI'];
 				
 				// Is this the a subpage?
