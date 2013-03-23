@@ -1,6 +1,6 @@
 # Kirby Knowledge Base
 
-Kirby is a simple file-based cms, made by <https://twitter.com/bastianallgeier>. At <http://www.6wunderkinder.com> we're using it as an internal knowledge-base for any type of documentation (processes, products, API...). It took us a long time to find the best setup for this and because we think most companies are struggling with this, we decided to open-source it.
+[Kirby](http://getkirby.com/) is a simple file-based cms, made by <https://twitter.com/bastianallgeier>. At <http://www.6wunderkinder.com> we're using it as an internal knowledge-base for any type of documentation (processes, products, API...). It took us a long time to find the best setup for this and because we think most companies are struggling with this, we decided to open-source it.
 
 ## Features
 
@@ -12,10 +12,11 @@ Kirby is a simple file-based cms, made by <https://twitter.com/bastianallgeier>.
 
 Installing this is super simple!
 
-1. Download and install Kirby (<https://github.com/bastianallgeier/kirbycms/zipball/master>)
-2. Download and install the Kirby knowledge-base (<https://github.com/christianreber/kirbycms-knowledge-base/zipball/master>)
+1. Download and install [Kirby](http://getkirby.com/)
+2. Download/clone this repository and copy over the files into the existing Kirby directories created in step 1.
 3. Create your own structure in the *content* folder! We've kept our's for the sake of demonstration, just delete what you don't need.
-4. ***Hint:*** We highly recommend to use Kirby with Dropbox (<http://getkirby.com/blog/kirby-meets-dropbox> - locally and on your server) and to share the *content* folder with everyone in the team to make editing content extremely simple.
+
+***Tip:*** We highly recommend to use Kirby with Dropbox (<http://getkirby.com/blog/kirby-meets-dropbox> - locally and on your server) and to share the *content* folder with everyone in the team to make editing content extremely simple.
 
 ## What we've used to create the knowledge-base
 
