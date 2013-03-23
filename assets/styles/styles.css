@@ -61,7 +61,7 @@ border:none;
 display:block;
 width:115px;
 height:41px;
-background-image:url(/assets/images/logo.png);
+background-image:url(../images/logo.png);
 margin:30px auto 0;
 }
 
@@ -71,7 +71,7 @@ border:1px solid #f4f4f4;
 
 #wrapper {
 width:1041px;
-background:url(/assets/images/background.png) #fff;
+background:url(../images/background.png) #fff;
 border:1px solid #D9D9D9;
 margin:0 auto;
 }
@@ -110,7 +110,7 @@ line-height:18px;
 }
 
 .menu li.hasChildren {
-background-image:url(/assets/images/arrow.png);
+background-image:url(../images/arrow.png);
 background-position:250px 10px;
 background-repeat:no-repeat;
 background-size:6px 9px;

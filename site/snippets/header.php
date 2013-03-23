@@ -16,7 +16,7 @@
 	<div id="wrapper">
 		
 		<div class="menu">
-			<a id="logo" href="/"></a>
-			<form id="search" action="/search"><input type="search" name="q" placeholder="Search..."></form>
+			<a id="logo" href="./"></a>
+			<form id="search" action="./search"><input type="search" name="q" placeholder="Search..."></form>
 			<?php snippet('treemenu') ?>			
 		</div>
